@@ -1,0 +1,100 @@
+#Box{
+    border: 5px solid grey;
+    width: 600px;
+    height: 890px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+}
+#ugenerator{
+    margin-top: 100px;
+    border: none;
+    outline: none;
+    font-size: 40px;
+    cursor: pointer;
+    background-color: lightgrey;
+}
+#ugenerator:active{
+    transform: scale(0.96); 
+}
+#unumber{
+    color: white;
+    font-size: 40px;
+}
+#ugenerator2{
+    margin-top: 100px;
+    border: none;
+    outline: none;
+    font-size: 40px;
+    cursor: pointer;
+}
+#botgenerator{
+    margin-top: 190px;
+    border: none;
+    outline: none;
+    font-size: 40px;
+    cursor: pointer;
+    background-color: black;
+}
+#botgenerator:active{
+    transform: scale(0.96); 
+}
+
+#botgenerator2{
+    margin-top: 100px;
+    border: none;
+    outline: none;
+    font-size: 40px;
+    cursor: pointer;
+}
+#botnumber{
+    color: white;
+    font-size: 40px;
+}
+
+#compare{
+    background-color: black;
+    border: none;
+    outline: none;
+    font-size: 30px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+#compare:active{
+    transform: scale(0.96);
+}
+
+#compare2{
+    background-color: black;
+    border: none;
+    outline: none;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+#comparetext{
+    color:green;
+    font-size: 35px;
+    margin-top: 30px;
+}
+#lasttext{
+    color:white;
+    font-size: 25px;
+    margin-top: 20px;
+}
+#resetbtn{
+    margin-top: -100px;
+    margin-left: -510px;
+    outline: none;
+    border: none;
+    background-color: black;
+}
+@media (max-width:640px){
+    #Box{
+        width: 400px;
+    }
+    #resetbtn{
+        margin-left: -300px;
+    }
+}
+
+ 

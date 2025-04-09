@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#musicsearchbox{
+    border: 1px solid black;
+    width: 800px;
+    height: 100px;
+    margin-top: 130px;
+}
+
+#search{
+    outline: none;
+    font-size: 30px;
+    font-family:monospace;
+    height: 40px;
+    width: 600px;
+}
+
+#musicscrollbox {
+    box-shadow: 0px 0px 15px black;
+    border-radius: 20px;
+    border: 13px solid black;
+    width: 700px;
+    height: 500px;
+    margin-top: 100px;
+    overflow-y: scroll;
+    background: linear-gradient(to right, rgb(0, 255, 174), rgb(43, 0, 255));
+}
+
+ul {
+    margin-left: -10px;
+    padding: 0;
+}
+
+li {
+    font-size: 2rem;
+    background-color: whitesmoke;
+    width: 90%;
+    height: 50px;   
+    border-radius: 20px;
+    display: flex;
+    align-items: center;  
+    margin-bottom: 10px;  
+}
+
+mark {
+    border-radius: 20px;
+    cursor: pointer;
+}
+
