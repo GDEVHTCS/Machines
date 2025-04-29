@@ -7,3 +7,10 @@ that I use to test and develop my knowledge.
 
 
 ![Screenshot 2025-04-09 124624](https://github.com/user-attachments/assets/ee4fae9f-8925-45c2-8884-7457f1ea5d0e)
+
+
+machine-1
+https://gdevhtcs.github.io/Machines/machine1/index.html
+
+machine-2
+https://gdevhtcs.github.io/Machines/machine2/index.html
